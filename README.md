@@ -7,7 +7,7 @@ A web-based app to schedule tennis matches for singles, doubles, and American Do
 
 ## How to run
 - Install dependencies: `pip install streamlit`
-- Run the app: `streamlit run tennis_scheduler.py`
+- Run the app: `streamlit run main.py`
 
 ## Requirements:
 - Python 3.7+
